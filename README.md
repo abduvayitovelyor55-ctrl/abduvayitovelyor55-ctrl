@@ -21,9 +21,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **JavaScript & TypeScript**
+- 🌱 I’m currently learning **HTML & CSS**
 - 💻 I’m working on **Web Development projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+- 💬 Ask me about **JavaScript,  MongoDB**
 - 📫 Reach me at **abdvayitovelyor55@gmail.com**
 
 ---
