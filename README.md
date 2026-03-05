@@ -28,6 +28,20 @@
 
 ---
 
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://instagram.com/_elyor.dev" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<a href="https://t.me/elyor_dev1" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40" />
+</a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
