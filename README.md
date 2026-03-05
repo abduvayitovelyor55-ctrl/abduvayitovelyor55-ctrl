@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **HTML & CSS & JavaScript**
 - 💻 I’m working on **Web Development projects**
 - 💬 Ask me about **JavaScript,  MongoDB**
 - 📫 Reach me at **abdvayitovelyor55@gmail.com**
@@ -30,8 +30,8 @@
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,express,html,css,sass,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,github,linux" />
 </p>
 
 ---
