@@ -31,13 +31,19 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/_elyor.dev" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+
+<a href="https://instagram.com/_elyor.dev">
+<img src="https://img.shields.io/badge/Instagram-@_elyor.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://t.me/elyor_dev1" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40" />
+<a href="https://t.me/elyor_dev1">
+<img src="https://img.shields.io/badge/Telegram-@elyor_dev1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+
+<a href="mailto:abdvayitovelyor55@gmail.com">
+<img src="https://img.shields.io/badge/Email-abdvayitovelyor55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
