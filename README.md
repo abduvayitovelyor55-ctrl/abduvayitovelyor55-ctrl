@@ -21,14 +21,7 @@
 
 ---
 
-### 🎯 Current goals
-- Build more public projects
-- Improve TypeScript mastery
-- Contribute to open-source
-
----
-
-## 🌐 Connect with me (Premium)
+## 🌐 Connect with me 
 
 <p align="left">
 
@@ -41,7 +34,7 @@
 </a>
 
 <a href="mailto:abdvayitovelyor55@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abdvayitovelyor55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-abdvayitovelyor55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=green"/>
 </a>
 
 </p>
@@ -59,13 +52,13 @@
 
 <p align="left">
 <a href="https://buymeacoffee.com/elyor">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-gold.png" height="50"/>
 </a>
 </p>
 
 ---
 
-## 📊 Super Metrics (Auto-generated)
+## 📊 Super Metrics 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/main/github-metrics.svg" alt="metrics" />
