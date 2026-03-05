@@ -43,7 +43,7 @@
 
 ## Languages and Tools:
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux" />
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="left">
 <a href="https://buymeacoffee.com/elyor">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-gold.png" height="50"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
 </p>
 
