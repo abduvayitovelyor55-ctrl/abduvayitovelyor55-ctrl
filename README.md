@@ -13,7 +13,7 @@
 <!-- Quick badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-informational" />
-  <img src="https://img.shields.io/badge/Learning-TypeScript-blue" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/Location-Uzbekistan-success" />
 </p>
 
