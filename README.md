@@ -21,16 +21,6 @@
 
 ---
 
-## 🧠 AI Developer Intro (Unique)
-
-> I build products like an engineer **and** think like a product person.  
-> I use AI as a **co-pilot** for faster iteration, better code quality, and cleaner architecture.
-
-### 🔥 What I do
-- 🧩 **Front-end:** clean UX, reusable components, performance
-- ⚙️ **Back-end:** APIs, auth, databases, scaling basics
-- 🧠 **AI workflow:** prompt→prototype→refactor→test→ship
-
 ### 🎯 Current goals
 - Build more public projects
 - Improve TypeScript mastery
