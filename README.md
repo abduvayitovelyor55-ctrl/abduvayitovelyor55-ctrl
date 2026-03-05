@@ -39,13 +39,6 @@
 ## 📊 Super GitHub Metrics
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abduvayitovelyor55-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvayitovelyor55-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abduvayitovelyor55-ctrl&theme=tokyonight&hide_border=true" />
 </p>
