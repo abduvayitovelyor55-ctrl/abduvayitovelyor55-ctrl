@@ -82,14 +82,6 @@
 
 ---
 
-## 🎨 3D GitHub Contribution Graph (Premium)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d graph" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
