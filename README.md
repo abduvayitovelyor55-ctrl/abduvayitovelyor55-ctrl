@@ -55,6 +55,15 @@
 </p>
 
 ---
+## ☕ Support My Work
+
+<p align="left">
+<a href="https://buymeacoffee.com/elyor">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+</a>
+</p>
+
+---
 
 ## 📊 Super Metrics (Auto-generated)
 
