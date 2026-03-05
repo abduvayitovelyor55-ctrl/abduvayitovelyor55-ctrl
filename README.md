@@ -48,21 +48,19 @@
 
 ---
 
-## 🧰 Tech Stack
+## Languages and Tools:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,kali" />
 </p>
 
 ---
-## ☕ Support
+##  Support:
 
-<p>
-
+<p align="left">
 <a href="https://buymeacoffee.com/elyor">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
-
 </p>
 
 ---
