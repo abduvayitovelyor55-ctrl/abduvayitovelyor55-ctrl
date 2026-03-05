@@ -55,12 +55,14 @@
 </p>
 
 ---
-## ☕ Support My Work
+## ☕ Support
 
-<p align="left">
+<p>
+
 <a href="https://buymeacoffee.com/elyor">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee"/>
 </a>
+
 </p>
 
 ---
