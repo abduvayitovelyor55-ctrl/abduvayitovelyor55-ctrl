@@ -1,47 +1,57 @@
+<!-- Ultra Premium Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Elyorbek%20%7C%20Full%20Stack%20Dev&fontAlign=50&fontAlignY=35&desc=AI-assisted%20builder%20%7C%20React%20%7C%20Node.js%20%7C%20TypeScript&descAlign=50&descAlignY=55&animation=twinkling&color=gradient" />
+</p>
+
 <!-- Typing banner -->
 <p align="center">
-  <a href="https://github.com/abduvayitovelyor55-ctrl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Elyorbek;Full+Stack+Web+Developer+from+Uzbekistan;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Building+cool+stuff+every+day+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Elyorbek;Full+Stack+Web+Developer+from+Uzbekistan;React+%7C+Node.js+%7C+TypeScript;I+build+clean+UIs+and+fast+APIs+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abduvayitovelyor55-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abduvayitovelyor55-ctrl&label=Profile%20views&style=flat" alt="profile views" />
 </p>
 
-<!-- Quick badges -->
+<!-- Premium quick badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-informational" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/Location-Uzbekistan-success" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-TypeScript-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timezone-Asia%2FTashkent-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 AI Developer Intro (Unique)
 
-- 🌱 I’m currently learning **HTML & CSS & JavaScript**
-- 💻 I’m working on **Web Development projects**
-- 💬 Ask me about **JavaScript,  MongoDB**
-- 📫 Reach me at **abdvayitovelyor55@gmail.com**
+> I build products like an engineer **and** think like a product person.  
+> I use AI as a **co-pilot** for faster iteration, better code quality, and cleaner architecture.
+
+### 🔥 What I do
+- 🧩 **Front-end:** clean UX, reusable components, performance
+- ⚙️ **Back-end:** APIs, auth, databases, scaling basics
+- 🧠 **AI workflow:** prompt→prototype→refactor→test→ship
+
+### 🎯 Current goals
+- Build more public projects
+- Improve TypeScript mastery
+- Contribute to open-source
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me (Premium)
 
 <p align="left">
 
 <a href="https://instagram.com/_elyor.dev">
-<img src="https://img.shields.io/badge/Instagram-@_elyor.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@_elyor.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://t.me/elyor_dev1">
-<img src="https://img.shields.io/badge/Telegram-@elyor_dev1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-@elyor_dev1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:abdvayitovelyor55@gmail.com">
-<img src="https://img.shields.io/badge/Email-abdvayitovelyor55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-abdvayitovelyor55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -50,27 +60,48 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,github,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,sass,git,docker,figma,linux" />
 </p>
 
 ---
 
-## 📊 Super GitHub Metrics
+## 📊 Super Metrics (Auto-generated)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/main/github-metrics.svg" alt="metrics" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abduvayitovelyor55-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvayitovelyor55-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abduvayitovelyor55-ctrl&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Premium metrics card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduvayitovelyor55-ctrl&theme=tokyonight" />
-</p>
+---
+
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abduvayitovelyor55-ctrl&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abduvayitovelyor55-ctrl&theme=tokyonight&utcOffset=5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduvayitovelyor55-ctrl&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎨 3D GitHub Contribution Graph (Premium)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d graph" />
 </p>
 
 ---
@@ -78,5 +109,10 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/abduvayitovelyor55-ctrl/abduvayitovelyor55-ctrl/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+<!-- Ultra Premium Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
 </p>
