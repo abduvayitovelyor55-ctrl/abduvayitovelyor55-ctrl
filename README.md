@@ -51,7 +51,7 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,kalilinux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,kali" />
 </p>
 
 ---
