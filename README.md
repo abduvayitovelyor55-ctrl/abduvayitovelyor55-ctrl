@@ -1,6 +1,6 @@
 <!-- Ultra Premium Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Elyorbek%20%7C%20Frontend%20Web%20Developer&fontSize=50&fontAlign=50&fontAlignY=35&desc=AI-assisted%20builder%20%7C%20React%20%7C%20Node.js%20%7C%20TypeScript&descSize=16&descAlign=50&descAlignY=58&animation=twinkling&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Elyorbek%20%7C%20Frontend%20Web%20Developer&fontSize=52&fontAlign=50&fontAlignY=35&desc=AI-assisted%20builder%20%7C%20React%20%7C%20Node.js%20%7C%20TypeScript&descSize=20&descAlign=50&descAlignY=58&animation=twinkling&color=gradient" />
 </p>
 
 <!-- Typing banner -->
