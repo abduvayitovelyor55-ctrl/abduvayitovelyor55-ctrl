@@ -15,7 +15,7 @@
 <!-- Premium quick badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-React-skyblue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Timezone-Asia%2FTashkent-success?style=for-the-badge" />
 </p>
 
@@ -44,7 +44,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux" />
 </p>
 
 ---
